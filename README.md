@@ -22,6 +22,7 @@ git clone https://github.com/Jaydeep1250/Product-Management-App.git
 cd product-management-app
 
 Step 2: Set Up the PostgreSQL Database
+create products_db database in PostgreSQL
 
 Run the following command to start the database:
 docker-compose up -d
