@@ -24,6 +24,7 @@ cd product-management-app
 Step 2: Set Up the PostgreSQL Database
 create products_db database in PostgreSQL
 
+Step 3: Set Up the Docker
 Run the following command to start the database:
 docker-compose up -d
 
